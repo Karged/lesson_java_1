@@ -4,6 +4,17 @@
         2) Змінна для зберігання ім'я файлу. 
         3) Змінна для зберігання кількості помилок. */
 
+        let str = 'year';
+        let year = 2024;
+        let str = 'month';
+        let month = 03;
+        let str = 'day';
+        let day = 09;
+        let str = 'DATE'
+        let DATE = year + "." +  month + "." + day;
+        console.log(DATE);
+
+
 
 /* Task - 2
         1) Об'явіть дві змінні: login и name
